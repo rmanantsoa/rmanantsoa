@@ -1,8 +1,8 @@
 ### Hi there 👋
 **Tianamanantsoa Rambeloson**
-[linkedin](https://linkedin.com/tiana-rambeloson)
-[facebook](https://facebook.com/manantsooa)
-[WhatsApp](https://facebook.com/manantsooa)
+* [linkedin](https://linkedin.com/tiana-rambeloson)
+* [facebook](https://www.linkedin.com/mwlite/in/tianamanantsoa-rambeloson)
+* [WhatsApp](https://facebook.com/manantsooa)
 
 <!--
 **rmanantsoa/rmanantsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
