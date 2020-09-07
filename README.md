@@ -1,8 +1,5 @@
 ### Hi there 👋
-**Tianamanantsoa Rambeloson**
-* [linkedin](https://linkedin.com/tiana-rambeloson)
-* [facebook](https://www.linkedin.com/mwlite/in/tianamanantsoa-rambeloson)
-* [WhatsApp](https://facebook.com/manantsooa)
+
 
 <!--
 **rmanantsoa/rmanantsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**Tianamanantsoa Rambeloson**
+* [linkedin](https://linkedin.com/tiana-rambeloson)
+* [facebook](https://www.linkedin.com/mwlite/in/tianamanantsoa-rambeloson)
+* [WhatsApp](https://facebook.com/manantsooa)
+
 -->
