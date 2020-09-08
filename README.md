@@ -8,7 +8,7 @@ Tianamanantsoa RAMBELOSON
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
 
-[![Qwicklabs](https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.png|width=50)][4]
+[![Qwicklabs](https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.png| width=200)][4]
 
 
 [1]: https://github.com/rmanantsoa
