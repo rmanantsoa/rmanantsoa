@@ -9,7 +9,7 @@ Tianamanantsoa RAMBELOSON
 
 
 [![Qwicklabs](https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.png | width=200)][4]
-<img src="https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.pn" width="400" height="790">
+<img src="https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.png" width="50" height="50">
 
 [1]: https://github.com/rmanantsoa
 [2]: https://www.linkedin.com/in/tianamanantsoa-rambeloson/
