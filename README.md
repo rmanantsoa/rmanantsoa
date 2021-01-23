@@ -19,7 +19,7 @@ Public profile
 <hr/> 
 <a href="https://www.hackerrank.com/manantsoa"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="55" height="56"></a> 
 <hr/> 
-<a href="https://rtianamanantoa.medium.com"> <img src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" width="60" height="60"></a> 
+<a href="https://rtianamanantsoa.medium.com"> <img src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" width="60" height="60"></a> 
 <hr/> 
 
 == 2021 ==
