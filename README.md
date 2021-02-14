@@ -12,10 +12,10 @@ Tianamanantsoa RAMBELOSON
 [2]: https://www.linkedin.com/in/tianamanantsoa-rambeloson/
 [3]: https://www.facebook.com/manantsooa
 
-
+<!--
 Public profile
 ===========
-<!--
+
 <a href="https://www.qwiklabs.com/public_profiles/ac2081bd-b9ac-4f34-9404-35df389281c0"> <img src="https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.png" width="50" height="50"></a>
 <hr/> 
 <a href="https://www.hackerrank.com/manantsoa"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="55" height="56"></a> 
@@ -23,4 +23,3 @@ Public profile
 <a href="https://rtianamanantsoa.medium.com"> <img src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" width="60" height="60"></a> 
 <hr/> 
 -->
-== 2021 ==
