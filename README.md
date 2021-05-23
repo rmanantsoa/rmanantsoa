@@ -25,6 +25,7 @@ Public profile 2021 ,
 -->
 
 [![Manantsoa's github stats](https://github-readme-stats.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
+<hr/> 
 [![Manantsoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmanantsoa&show_icons=true&layout=compact&hide=css,html)](https://github.com/rmanantsoa) 
 
 
