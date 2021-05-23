@@ -22,9 +22,9 @@ Public profile 2021 ,
  
 
 
-[![github](img/github_logo)][1]
-[![linkedin](img/linkedin_logo)][2]
-[![facebook](img/facebook_logo)][3]
+[![github](img/github_logo.png)][1]
+[![linkedin](img/linkedin_logo.png)][2]
+[![facebook](img/facebook_logo.png)][3]
 [![hackerrank](img/hackerrank_logo.png)][4]
 
 
