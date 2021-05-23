@@ -34,8 +34,8 @@ Public profile 2021 ,
 [2]: https://www.linkedin.com/in/tianamanantsoa-rambeloson/
 [3]: https://www.facebook.com/manantsooa
 [4]: https://www.hackerrank.com/manantsoa
-[5]: https://www.facebook.com/manantsooa
-[6]: https://www.hackerrank.com/manantsoa
+[5]: https://www.qwiklabs.com/public_profiles/ac2081bd-b9ac-4f34-9404-35df389281c0
+[6]: https://app.pluralsight.com/profile/tiana-rambeloson
 
 <a href="https://github.com/rmanantsoa/followers"><img title="Followers" src="https://img.shields.io/github/followers/rmanantsoa?color=blue&style=flat-square"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
