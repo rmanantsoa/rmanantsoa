@@ -26,7 +26,7 @@ Public profile 2021 ,
 [![linkedin](img/linkedin_logo.png)][2]
 [![facebook](img/facebook_logo.png)][3]
 [![hackerrank](img/hackerrank_logo.png)][4]
-[![qwicklab](img/qwicklab_logo.png)][5]
+[![qwicklabs](img/qwicklabs_logo.png)][5]
 [![pluralsight](img/pluralsight_logo.png)][6]
 
 
