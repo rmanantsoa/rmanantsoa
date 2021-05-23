@@ -26,12 +26,16 @@ Public profile 2021 ,
 [![linkedin](img/linkedin_logo.png)][2]
 [![facebook](img/facebook_logo.png)][3]
 [![hackerrank](img/hackerrank_logo.png)][4]
+[![qwicklab](img/facebook_logo.png)][5]
+[![pluralsigh](img/hackerrank_logo.png)][6]
 
 
 [1]: https://github.com/rmanantsoa
 [2]: https://www.linkedin.com/in/tianamanantsoa-rambeloson/
 [3]: https://www.facebook.com/manantsooa
 [4]: https://www.hackerrank.com/manantsoa
+[5]: https://www.facebook.com/manantsooa
+[6]: https://www.hackerrank.com/manantsoa
 
 <a href="https://github.com/rmanantsoa/followers"><img title="Followers" src="https://img.shields.io/github/followers/rmanantsoa?color=blue&style=flat-square"></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
