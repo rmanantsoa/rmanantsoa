@@ -23,3 +23,5 @@ Public profile 2021 ,
 <a href="https://rtianamanantsoa.medium.com"> <img src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" width="60" height="60"></a> 
 <hr/> 
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
