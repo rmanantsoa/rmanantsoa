@@ -2,6 +2,16 @@
  Tianamanantsoa RAMBELOSON 
 ===========================
 
+### Tech Toolbox
+
+<p align="left">
+  [![github](img/github_logo.png)][10]
+  [![linkedin](img/linkedin_logo.png)][11]
+  [![facebook](img/facebook_logo.png)][12]
+  [![hackerrank](img/hackerrank_logo.png)][13]
+  [![qwicklabs](img/qwiklabs_logo.png)][14]
+  [![pluralsight](img/pluralsight_logo.png)][15]
+</p>
 
 [![Manantsoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmanantsoa&show_icons=true&layout=compact&hide=css,html)](https://github.com/rmanantsoa) 
 
