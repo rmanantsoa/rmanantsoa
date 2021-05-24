@@ -26,6 +26,8 @@
 [6]: https://app.pluralsight.com/profile/tiana-rambeloson
 
 <a href="https://github.com/rmanantsoa/followers"><img title="Followers" src="https://img.shields.io/github/followers/rmanantsoa?color=blue&style=flat-square"></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)      
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
 
+
+### Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{rmanantsoa}/count.svg)
