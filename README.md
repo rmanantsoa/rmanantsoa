@@ -3,19 +3,6 @@
 ===========================
 
 
-
-
-<!--
-Public profile 2021 , 
-===========
-
-<a href="https://www.qwiklabs.com/public_profiles/ac2081bd-b9ac-4f34-9404-35df389281c0"> <img src="https://i.pinimg.com/originals/74/41/81/744181e579b7a1b5e8b9186a13750e04.png" width="50" height="50"></a>
-<hr/> 
-<a href="https://www.hackerrank.com/manantsoa"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="55" height="56"></a> 
-<hr/> 
-<a href="https://rtianamanantsoa.medium.com"> <img src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" width="60" height="60"></a> 
-<hr/> 
--->
 [![Manantsoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmanantsoa&show_icons=true&layout=compact&hide=css,html)](https://github.com/rmanantsoa) 
 
 [![Manantsoa's github stats](https://github-readme-stats.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
