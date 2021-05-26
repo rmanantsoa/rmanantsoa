@@ -7,7 +7,7 @@
 
 [![Manantsoa's github stats](https://github-readme-stats.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
 
-### Tech Toolbox
+### Tech Stack
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
