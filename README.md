@@ -13,7 +13,7 @@
 [![docker](img/docker.png)][1]
 [![javascript](img/js.png)][1]
 [![javascript](img/git.png)][1]
-[![mysql](img/mysql.png)][1]
+[![mysql](img/my_sql.png)][1]
 [![azure](img/azure.png)][1]
 
 ### Public profiles
