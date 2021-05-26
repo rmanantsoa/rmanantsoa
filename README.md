@@ -20,6 +20,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
+### Tech Stack
+[![html5](img/html5.png)]
+[![css3](img/css3.png)]
+
+
 ### Public profiles
 
 [![github](img/github_logo.png)][1]
