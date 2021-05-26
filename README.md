@@ -21,8 +21,8 @@
 </p>
 
 ### Tech Stack
-[![html5](img/html5.png)]
-[![css3](img/css3.png)]
+![html5](img/html5.png)
+![css3](img/css3.png)
 
 
 ### Public profiles
