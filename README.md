@@ -21,8 +21,10 @@
 </p>
 
 ### Tech Stack
-![html5](img/html5.png)
+![python](img/python.png)
 ![css3](img/css3.png)
+![mysql](img/mysql.png)
+![docker](img/docker.png)
 
 
 ### Public profiles
