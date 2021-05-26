@@ -10,7 +10,8 @@
 ### Tech Stack
 [![python](img/python.png)][1]
 [![googleCloud](img/googleCloud.png)][1]
-[![mysql](img/mysql.png)][1]
+[![docker](img/docker.png)][1]
+[![javascript](img/js.png)][1]
 
 ### Public profiles
 
