@@ -20,12 +20,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
-### Tech Stack
-![python](img/python.png)
-![css3](img/css3.png)
-![mysql](img/mysql.png)
-![docker](img/docker.png)
-
 
 ### Public profiles
 
