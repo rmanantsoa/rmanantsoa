@@ -8,7 +8,7 @@
 [![Manantsoa's github stats](https://github-readme-stats.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
 
 ### Tech Stack
-[![python](img/python.png)][1]
+[![python](img/pm/python.png)][1]
 [![googleCloud](img/googleCloud.png)][1]
 [![docker](img/docker.png)][1]
 [![javascript](img/js.png)][1]
