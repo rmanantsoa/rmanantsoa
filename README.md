@@ -10,12 +10,12 @@
 ### Tech Stack
 [![python](img/python.png)][1]
 [![googleCloud](img/googleCloud.png)][1]
-[![docker](img/docker.png)][1]
-[![javascript](img/js.png)][1]
-[![javascript](img/git.png)][1]
-[![mysql](img/mysql.png)][1]
 [![azure](img/azure.png)][1]
 [![kubernetes](img/kubernetes.png)][1]
+[![git](img/git.png)][1]
+[![docker](img/docker.png)][1]
+[![javascript](img/js.png)][1]
+[![mysql](img/mysql.png)][1]
 [![html5](img/html5.png)][1]
 [![css3](img/css3.png)][1]
 
