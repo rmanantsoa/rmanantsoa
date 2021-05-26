@@ -12,6 +12,7 @@
 [![googleCloud](img/googleCloud.png)][1]
 [![docker](img/docker.png)][1]
 [![javascript](img/js.png)][1]
+[![javascript](img/git.png)][1]
 
 ### Public profiles
 
