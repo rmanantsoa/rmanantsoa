@@ -1,7 +1,8 @@
 
  Tianamanantsoa RAMBELOSON 
 ============================
-
+IT Engineer, DevOps and Cloud enthusiast.
+Active learner and a comptetitive programmer.
 
 [![Manantsoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmanantsoa&show_icons=true&layout=compact&hide=css,html)](https://github.com/rmanantsoa) 
 
