@@ -41,7 +41,7 @@ Active learner and a comptetitive programmer.
 [7]: https://rtianamanantsoa.medium.com/
 
 <a href="https://github.com/rmanantsoa/followers"><img title="Followers" src="https://img.shields.io/github/followers/rmanantsoa?color=blue&style=flat-square"></a>
-![Hits](https://img.shields.io/badge/hits-rmanantsoa-blue)   
+![Hits](https://visitor-badge.laobi.icu/badge?page_id=rmanantsoa.github.io)
 
 
 ### Profile views
