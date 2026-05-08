@@ -45,7 +45,6 @@ Active learner and a comptetitive programmer.
 
 
 ### Profile views
-![Visitor Count](https://profile-counter.glitch.me/{rmanantsoa}/count.svg)
 ![Visitor Count](https://komarev.com/ghpvc/?username=rmanantsoa)
 
 [![@rmanantsoa's Holopin board](https://holopin.me/rmanantsoa)](https://holopin.io/@rmanantsoa)
