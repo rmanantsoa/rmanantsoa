@@ -6,7 +6,7 @@ Active learner and a comptetitive programmer.
 
 [![Manantsoa's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
 
-[![Manantsoa's github stats](https://github-readme-stats.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
+[![Manantsoa's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmanantsoa&layout=compact&hide=css,html&theme=dark)](https://github.com/rmanantsoa)
 
 ### Tech Stack
 [![python](img/python.png)][1]
