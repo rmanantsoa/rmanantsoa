@@ -3,10 +3,10 @@
 ============================
 IT Engineer, DevOps and Cloud enthusiast.
 Active learner and a comptetitive programmer.
-[![Skill Level](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmanantsoa&layout=compact&langs_count=8&theme=dark)](https://github.com/rmanantsoa)
+
 [![Manantsoa's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
 
-[![Manantsoa's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmanantsoa&layout=compact&hide=css,html&theme=dark)](https://github.com/rmanantsoa)
+[![Skill Level](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmanantsoa&layout=compact&langs_count=8&theme=dark)](https://github.com/rmanantsoa)
 
 ### Tech Stack
 [![python](img/python.png)][1]
