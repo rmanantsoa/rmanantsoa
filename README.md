@@ -4,7 +4,7 @@
 IT Engineer, DevOps and Cloud enthusiast.
 Active learner and a comptetitive programmer.
 
-[![Manantsoa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmanantsoa&show_icons=true&layout=compact&hide=css,html)](https://github.com/rmanantsoa) 
+[![Manantsoa's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
 
 [![Manantsoa's github stats](https://github-readme-stats.vercel.app/api?username=rmanantsoa&show_icons=true&theme=dark)](https://github.com/rmanantsoa)
 
