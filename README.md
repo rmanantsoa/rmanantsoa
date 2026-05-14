@@ -43,7 +43,6 @@ Active learner and a comptetitive programmer.
 <a href="https://github.com/rmanantsoa/followers"><img title="Followers" src="https://img.shields.io/github/followers/rmanantsoa?color=blue&style=flat-square"></a>
 ![Hits](https://visitor-badge.laobi.icu/badge?page_id=rmanantsoa.github.io)
 
-
 ### Profile views
 ![Visitor Count](https://komarev.com/ghpvc/?username=rmanantsoa)
 
