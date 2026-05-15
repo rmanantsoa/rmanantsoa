@@ -20,7 +20,7 @@ Active learner and a comptetitive programmer.
 [![html5](img/html5.png)][1]
 [![css3](img/css3.png)][1]
 
-### Public profiles
+### Public profiles  
 
 [![github](img/github_logo.png)][1]
 [![linkedin](img/linkedin_logo.png)][2]
